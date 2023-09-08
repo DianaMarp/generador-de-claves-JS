@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+    background:  #1C1C1C;
+   
+
+}
+
+.box{
+    width: 550px;
+    height: 550px;
+    background: #1F2937;
+    display: flex;
+    margin: auto;
+    justify-content: start;
+    margin-top: 64px;
+    flex-direction: column;
+    align-items: start;
+}
+.title{
+    margin: 115px 0  0 52px;
+    color: white;
+    width: 354px;
+
+}
+a{
+    color: #4ADF86;
+}
+
+.btn-g{
+    background: #10B981;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 7px;
+    border: none;
+    font-weight: bold;
+}
+.linea{
+    border-top: 1px solid #2F3E53;
+    width: 80%;
+    margin-top: 30px;
+}
+.output{
+    background:#273549;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+
+   border-radius: 6px;
+
+   color: #55F991;
+   width: 211px;
+   height: 39px;
+   margin-top: 30px;
+}
+.Passwords{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 10px 0 10px;
+    justify-content: space-around;
+ 
+}
